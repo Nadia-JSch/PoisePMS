@@ -22,18 +22,27 @@ The following information about each project is stored in a MySQL database:
     * Customer
     * Project Manager
     * Structural Engineer
-    
-## Getting Started
 
-### Dependencies
+## Dependencies
 
 * Java Database Connectivity MySQL API is used to communicate with the DB server
 
+## Images 
+### Main menu options
+![Main menus screenshot](https://github.com/Nadia-JSch/PoisePMS/blob/master/main%20menu.png)
+
+### Sub menu options
+![sub menu screenshot](https://github.com/Nadia-JSch/PoisePMS/blob/master/sub%20menu.png)
+
+### Project search result
+![Search result screenshot](https://github.com/Nadia-JSch/PoisePMS/blob/master/search%20example.png)
+
 ## Version History
 
-* 2.0
+* 2.0 (this version)
     - Data read and written to a local MySQL database
-* 1.0
+    
+* [1.0](https://github.com/Nadia-JSch/Project-management-system)
     * Initial Release
       - The core functionality was achieved. 
       - Data was read and written to text files
