@@ -37,13 +37,21 @@ The following information about each project is stored in a MySQL database:
 ### Project search result
 ![Search result screenshot](https://github.com/Nadia-JSch/PoisePMS/blob/master/search%20example.png)
 
+## Authors
+
+Nadia Schmidtke [@Nadia-JSch](https://github.com/Nadia-JSch)
+
+## License
+
+This project is licensed under the [GNU GENERAL PUBLIC LICENSE](https://github.com/Nadia-JSch/PoisePMS/blob/master/license).
+
 ## Version History
 
 * 2.0 (this version)
     - Data read and written to a local MySQL database
     
 * [1.0](https://github.com/Nadia-JSch/Project-management-system)
-    * Initial Release
+    * first version
       - The core functionality was achieved. 
       - Data was read and written to text files
 
