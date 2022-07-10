@@ -1,10 +1,10 @@
 # PoisePMS
-This application allows employees at a ficticious structural engineering company called "Poised" to capture information about building projects. Projects can be searched for, edited and marked as complete. All overdue projects can be viewed, as well as current projects.
+This application allows employees at a fictitious structural engineering company called "Poised" to capture information about building projects. Projects can be searched for, edited and marked as complete. All overdue projects can be viewed, as well as current projects.
 
 ## Description
 
-Information about all projects, or specific projects, can be viewed. Specific projects can be searched for using either the project name or number, and then edited. 
-Projects can be marked as finalised and a date of completion is requested by the user. If the customer still has an outstanding amount to be paid, an invoice is generated that includes the customer's details.
+Information about all projects, or specific projects, can be viewed. Specific projects can be searched for using either the project name or number, and then edited.
+Projects can be marked as finalised and the date of completion is requested by the user. If the customer still has an outstanding amount to be paid, an invoice is generated that includes the customer's details.
 In addition, a list of overdue projects can be viewed.
 
 The following information about each project is stored in a MySQL database:
@@ -25,9 +25,14 @@ The following information about each project is stored in a MySQL database:
 
 ## Dependencies
 
-* Java Database Connectivity MySQL API is used to communicate with the DB server
+* Java Database Connectivity MySQL API is used to communicate with the DB server.
 
-## Images 
+Import the following libraries:
+* java.sql*
+* java.time.LocalDate
+* java.util*
+
+## Images
 ### Main menu options
 ![Main menus screenshot](https://github.com/Nadia-JSch/PoisePMS/blob/master/main%20menu.png)
 
@@ -39,7 +44,7 @@ The following information about each project is stored in a MySQL database:
 
 ## Authors
 
-Nadia Schmidtke [@Nadia-JSch](https://github.com/Nadia-JSch)
+Nadia Schmidtke [Email me](https://nadia-jsch.github.io/nadia-schmidtke-resume/Contact.html)
 
 ## License
 
@@ -49,10 +54,8 @@ This project is licensed under the [GNU GENERAL PUBLIC LICENSE](https://github.c
 
 * 2.0 (this version)
     - Data read and written to a local MySQL database
-    
+   
 * [1.0](https://github.com/Nadia-JSch/Project-management-system)
     * first version
-      - The core functionality was achieved. 
+      - The core functionality was achieved.
       - Data was read and written to text files
-
-
