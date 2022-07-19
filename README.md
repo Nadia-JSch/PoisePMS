@@ -42,9 +42,9 @@ Import the following libraries:
 ### Project search result
 ![Search result screenshot](https://github.com/Nadia-JSch/PoisePMS/blob/master/search%20example.png)
 
-## Authors
+## Author
 
-Nadia Schmidtke [Email me](https://nadia-jsch.github.io/nadia-schmidtke-resume/Contact.html)
+Nadia Schmidtke [Email me](https://nadia-jsch.github.io/Nadia-Schmidtke-Webpages/Contact.html)
 
 ## License
 
